@@ -1,0 +1,35 @@
+# Visual Studio / C# Ignore File
+
+# Built-in Visual Studio files
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Diagnostic files
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.nc
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+
+# Visual Studio Code (if opened with VS Code)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
