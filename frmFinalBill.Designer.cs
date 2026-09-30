@@ -76,7 +76,7 @@
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Arabic Typesetting", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(29, 228);
+            this.label3.Location = new System.Drawing.Point(29, 227);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(220, 40);
@@ -89,12 +89,12 @@
             this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.Font = new System.Drawing.Font("Arabic Typesetting", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(29, 294);
+            this.label4.Location = new System.Drawing.Point(29, 293);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(136, 40);
+            this.label4.Size = new System.Drawing.Size(208, 40);
             this.label4.TabIndex = 4;
-            this.label4.Text = "Pizza Size :";
+            this.label4.Text = "Pizza Size          :";
             // 
             // label5
             // 
@@ -102,12 +102,12 @@
             this.label5.BackColor = System.Drawing.Color.Transparent;
             this.label5.Font = new System.Drawing.Font("Arabic Typesetting", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(29, 427);
+            this.label5.Location = new System.Drawing.Point(29, 425);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(187, 40);
+            this.label5.Size = new System.Drawing.Size(211, 40);
             this.label5.TabIndex = 5;
-            this.label5.Text = "Where To Eat : ";
+            this.label5.Text = "Where To Eat    : ";
             // 
             // label6
             // 
@@ -115,12 +115,12 @@
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Arabic Typesetting", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(29, 494);
+            this.label6.Location = new System.Drawing.Point(29, 491);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(198, 40);
+            this.label6.Size = new System.Drawing.Size(214, 40);
             this.label6.TabIndex = 6;
-            this.label6.Text = "Pizza Toppings : ";
+            this.label6.Text = "Pizza Toppings   : ";
             // 
             // flblTotalPrice
             // 
@@ -139,7 +139,7 @@
             this.flblCrustType.BackColor = System.Drawing.Color.Transparent;
             this.flblCrustType.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.flblCrustType.ForeColor = System.Drawing.Color.White;
-            this.flblCrustType.Location = new System.Drawing.Point(236, 230);
+            this.flblCrustType.Location = new System.Drawing.Point(236, 228);
             this.flblCrustType.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.flblCrustType.Name = "flblCrustType";
             this.flblCrustType.Size = new System.Drawing.Size(273, 36);
@@ -151,7 +151,7 @@
             this.flblSize.BackColor = System.Drawing.Color.Transparent;
             this.flblSize.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.flblSize.ForeColor = System.Drawing.Color.White;
-            this.flblSize.Location = new System.Drawing.Point(236, 294);
+            this.flblSize.Location = new System.Drawing.Point(236, 290);
             this.flblSize.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.flblSize.Name = "flblSize";
             this.flblSize.Size = new System.Drawing.Size(167, 42);
@@ -163,7 +163,7 @@
             this.flblWhereToEat.BackColor = System.Drawing.Color.Transparent;
             this.flblWhereToEat.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.flblWhereToEat.ForeColor = System.Drawing.Color.White;
-            this.flblWhereToEat.Location = new System.Drawing.Point(236, 427);
+            this.flblWhereToEat.Location = new System.Drawing.Point(236, 426);
             this.flblWhereToEat.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.flblWhereToEat.Name = "flblWhereToEat";
             this.flblWhereToEat.Size = new System.Drawing.Size(192, 42);
@@ -188,19 +188,19 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Arabic Typesetting", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
-            this.label7.Location = new System.Drawing.Point(29, 361);
+            this.label7.Location = new System.Drawing.Point(29, 359);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(158, 40);
+            this.label7.Size = new System.Drawing.Size(206, 40);
             this.label7.TabIndex = 12;
-            this.label7.Text = "Pizza Pieces :";
+            this.label7.Text = "Pizza Pieces       :";
             // 
             // flblPizzaPieces
             // 
             this.flblPizzaPieces.BackColor = System.Drawing.Color.Transparent;
             this.flblPizzaPieces.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.flblPizzaPieces.ForeColor = System.Drawing.Color.White;
-            this.flblPizzaPieces.Location = new System.Drawing.Point(236, 361);
+            this.flblPizzaPieces.Location = new System.Drawing.Point(236, 358);
             this.flblPizzaPieces.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.flblPizzaPieces.Name = "flblPizzaPieces";
             this.flblPizzaPieces.Size = new System.Drawing.Size(167, 42);
